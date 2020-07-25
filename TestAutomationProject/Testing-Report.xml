@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="6" passed="5" failures="1" execution-date="06/09/2020 21:56:41" total-time="00:00:24">
+  <Result>
+    <TestScenario>Abrir Newtours</TestScenario>
+    <TestName>Caso 1</TestName>
+    <Started>06/09/2020 21:56:39</Started>
+    <Ended>06/09/2020 21:56:41</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Abrir Newtours</TestScenario>
+    <TestName>Caso 1</TestName>
+    <Started>06/09/2020 21:57:21</Started>
+    <Ended>06/09/2020 21:57:23</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Abrir Newtours</TestScenario>
+    <TestName>Caso 1</TestName>
+    <Started>06/09/2020 21:58:33</Started>
+    <Ended>06/09/2020 21:58:35</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Abrir Newtours</TestScenario>
+    <TestName>Caso 1</TestName>
+    <Started>06/09/2020 21:58:49</Started>
+    <Ended>06/09/2020 21:58:51</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Abrir Newtours</TestScenario>
+    <TestName>Caso 1</TestName>
+    <Started>06/09/2020 21:59:35</Started>
+    <Ended>06/09/2020 21:59:37</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Abrir Newtours</TestScenario>
+    <TestName>Caso 1</TestName>
+    <Started>06/09/2020 22:06:54</Started>
+    <Ended>06/09/2020 22:07:08</Ended>
+    <Status>FAILED</Status>
+  </Result>
+</Test-Suite>

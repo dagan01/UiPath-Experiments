@@ -1,0 +1,41 @@
+{
+  "name": "MobileTestingProject",
+  "description": "Mobile Testing Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.MobileAutomation.Activities": "[20.4.1]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Testing.Activities": "[1.0.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4241eb7f-c312-420d-a1c3-f2c580303a62",
+        "fileName": "TestCase.xaml"
+      }
+    ]
+  },
+  "expressionLanguage": "VisualBasic"
+}
